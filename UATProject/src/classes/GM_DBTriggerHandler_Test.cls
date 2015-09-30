@@ -93,7 +93,7 @@ public class GM_DBTriggerHandler_Test{
             
             EmailTemplate objEmailTempCT = EmailTemplate();
             objEmailTemp.DeveloperName='CT agrees with final budget';
-            insert objEmailTempCT;
+            insert objEmailTempCT..;
             */
                 
             /*ipDetail.Budget_Status__c = 'CT shared reviewed budget with PR';
