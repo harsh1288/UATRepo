@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>GM_DBTriggerHandler_Test</members>
-        <members>GM_HPCTriggerHandler_test</members>
-        <members>GM_overrideeditext_Test</members>
-        <members>GM_overrideext_test</members>
-        <members>GM_overrideindicatordetailext_test</members>
+        <members>*</members>
         <name>ApexClass</name>
     </types>
     <version>34.0</version>
