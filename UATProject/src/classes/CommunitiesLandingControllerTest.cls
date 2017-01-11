@@ -23,4 +23,5 @@
         PageReference p1 = controller.forwardToStartPage(); // JK01
         //System.assertNotEquals(null,p1, 'p1 should not be null');   // Jk01
       }
+     //newchange
 }
